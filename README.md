@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielsuperone
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on a battle bot
+- 💞️ I’m always interested in your feedback
 - 📫 My Website: www.danielsuperone.ml
 
 <!---
