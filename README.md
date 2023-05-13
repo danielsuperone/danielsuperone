@@ -9,7 +9,7 @@ I've been learning to code since 2017. I've always found programming fascinating
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [MyPortfolio](http://www.portfolio.me)
 * ✉️  You can contact me on [Discord](https://discord.gg/q5tzV7h9x3)
-* 🚀  I'm currently working on [hackathon](http://www.hackathon.com/)
+* 🚀  I'm currently working on [Monkeytype](https://monkeytype.com/profile/danielsuperone)
 * 🧠  I'm learning Java and Python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Feel free to PM me if you're looking for a coding buddy or just a friend that can code
