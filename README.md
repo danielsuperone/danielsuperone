@@ -1,10 +1,16 @@
 Hi 👋 My name is Daniel
 =======================
 
-I'm a web developer and white hat hacker
+I'm a programmer!
 ----------------------------------------
+**My PC Specs**:
+![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
+![Intel i9-13900K](https://img.shields.io/badge/i9-13900K-blue?logo=intel)
+![RTX 4080](https://img.shields.io/badge/RTX-4080-76b900?logo=nvidia)
+![Asus Z790-E](https://img.shields.io/badge/Motherboard-Z790E%20-orange?logo=PCGamingWiki)
+![Corsair DDR5 6600 MHz 64GB RAM](https://img.shields.io/badge/RAM-DDR5_64GB_6600_MHz-red?logo=corsair)
 
-I've been learning to code since 2017. I've always found programming fascinating since you can make your dreams a reality, especially with a good and supportive community such as Github, programminig has never been this fun before.
+I've been learning to code since 2017, I have since immersed myself in the captivating world of programming. Its ability to transform ideas into tangible reality has continually fascinated me. I am particularly drawn to the power of code to turn dreams into practical solutions!
 
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [MyPortfolio](http://www.portfolio.me)
