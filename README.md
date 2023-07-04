@@ -20,7 +20,7 @@ I've been learning to code since 2017, I have since immersed myself in the capti
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Feel free to PM me if you're looking for a coding buddy or just a friend that can code
 
-### Skills
+### Skills/Experiences
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
