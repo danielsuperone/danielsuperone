@@ -10,13 +10,9 @@ Developer | Co-founder of ND Web Design | Technology Enthusiast
 ![Asus Z790-E](https://img.shields.io/badge/Motherboard-Z790E%20-orange?logo=PCGamingWiki)
 ![Corsair DDR5 6600 MHz 64GB RAM](https://img.shields.io/badge/RAM-DDR5_64GB_6600_MHz-red?logo=corsair)
 
-I'm a developer based in Malta, currently pursuing a BSc (Hons) in Business and IT at the University of Malta.
+I'm a developer based in Malta and co-founder of ND Web Design, where I work on web applications, cloud infrastructure and business automation.
 
-I'm the co-founder of ND Web Design, where I work on web development, cloud infrastructure, business applications and automation solutions.
-
-I also run dan.mt, where I showcase my personal work and offer photography and videography services.
-
-Beyond development, I'm passionate about systems architecture, networking, self-hosting and exploring how technology can solve real-world problems.
+I'm currently studying Business & IT at the University of Malta, with a particular interest in systems architecture, networking and self-hosting.
 
 
 * 🌍 Based in Malta, Europe
