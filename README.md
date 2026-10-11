@@ -84,6 +84,8 @@ Beyond development, I'm passionate about systems architecture, networking, self-
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" title="Premiere Pro" alt="Premiere Pro" /></a>
 <a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" title="Blender" alt="Blender" /></a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/davinciresolve" width="36" height="36" title="DaVinci Resolve" alt="DaVinci Resolve" /></a>
+<a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fl-studio.png" width="36" height="36" title="FL Studio" alt="FL Studio" /></a>
+
 </p>
 
 
