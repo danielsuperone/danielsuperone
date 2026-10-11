@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel
 =======================
 
-I'm a programmer!
+Developer | Co-founder of ND Web Design | Technology Enthusiast
 ----------------------------------------
 **My PC Specs**:
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
@@ -10,16 +10,23 @@ I'm a programmer!
 ![Asus Z790-E](https://img.shields.io/badge/Motherboard-Z790E%20-orange?logo=PCGamingWiki)
 ![Corsair DDR5 6600 MHz 64GB RAM](https://img.shields.io/badge/RAM-DDR5_64GB_6600_MHz-red?logo=corsair)
 
-I've been learning to code since 2017, I have since immersed myself in the captivating world of programming. Its ability to transform ideas into tangible reality has continually fascinated me. I am particularly drawn to the power of code to turn dreams into practical solutions!
+I'm a developer based in Malta, currently pursuing a BSc (Hons) in Business and IT at the University of Malta.
+
+I'm the co-founder of ND Web Design, where I work on web development, cloud infrastructure, business applications and automation solutions.
+
+I also run dan.mt, where I showcase my personal work and offer photography and videography services.
+
+Beyond development, I'm passionate about systems architecture, networking, self-hosting and exploring how technology can solve real-world problems.
 
 
-* 🌍  I'm based in Europe
-* 🖥️  See my portfolio at [MyPortfolio](http://www.portfolio.me)
-* ✉️  You can contact me on [Discord](https://discord.gg/q5tzV7h9x3)
-* 🚀  I'm currently working on [Monkeytype](https://monkeytype.com/profile/danielsuperone)
-* 🧠  I'm learning Java and Python
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Feel free to PM me if you're looking for a coding buddy or just a friend that can code
+* 🌍 Based in Malta, Europe
+* 🎓 Studying at the University of Malta
+* 💼 Co-founder of [ND Web Design](https://ndwebdesign.mt/)
+* 🌐 Personal portfolio & photography at [dan.mt](https://dan.mt/)
+* ✉️ Contact me on [Discord](https://discord.gg/q5tzV7h9x3)
+* ⌨️ My typing stats on [Monkeytype](https://monkeytype.com/profile/danielsuperone)
+* 🧠 Interested in development, cloud & systems architecture
+* 🤝 Open to collaborations and new opportunities
 
 ### Skills/Experiences
 
